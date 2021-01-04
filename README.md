@@ -2,8 +2,10 @@
 ## About me
 Second-year computer engineering student at the University of Toronto with an interest in machine learning, programming, and software-design. On Dean’s List for all academic terms to date. Recipient of University of Toronto In-Course Scholarship and FASE First Year Summer Fellowship. Worked for the iQua research group and co-authored three (3) research papers on Deep Reinforcement Learning.
 
-## Resume
-Visit https://isidorkaplan.ca to see my resume and experience.
+## Contact
+Resume: https://isidorkaplan.ca
+Linkedin: https://www.linkedin.com/in/isidorjkaplan
+Email: isidor.kaplan@mail.utoronto.ca
 
 ## A note to visitors
 Unfortunately, I am restricted from publically sharing the code from the vast majority of projects I have worked on. Here are some of the projets that I have worked on but am not permitted from sharing the code. The code that I am allowed to share is on my Repo but it is not representitive of my best work. All of the projects I am most proud of I am not allowed to share the code for, which is extreamly unfortunate. 
