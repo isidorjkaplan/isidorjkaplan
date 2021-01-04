@@ -3,8 +3,8 @@
 Second-year computer engineering student at the University of Toronto with an interest in machine learning, programming, and software-design. On Dean’s List for all academic terms to date. Recipient of University of Toronto In-Course Scholarship and FASE First Year Summer Fellowship. Worked for the iQua research group and co-authored three (3) research papers on Deep Reinforcement Learning.
 
 ## Contact
-Resume: https://isidorkaplan.ca
-Linkedin: https://www.linkedin.com/in/isidorjkaplan
+Resume: https://isidorkaplan.ca \
+Linkedin: https://www.linkedin.com/in/isidorjkaplan \
 Email: isidor.kaplan@mail.utoronto.ca
 
 ## A note to visitors
