@@ -20,16 +20,16 @@ I co-authored 3 papers while working for the iQua research group. Unfortunately,
 ## Some projects I can share
 Although some of the cooler projects I have worked on I am not allowed to share, there are a number of projects that I have worked on that I can share. 
 
-## Ultra Minecraft Plugin
+### Ultra Minecraft Plugin
 https://github.com/isidorjkaplan/UltraPlugin
 
 While I was in Grade 11 and 12 I single-handidly created this 300+ class codebase in Java. It consists of a core library, reffered to as "UltraLib," which stores a set of useful libraries and types. I then used this library to create a large amount of independant modular plugins that share functionality through the core plugin. These can be found in the 'modules' and 'abandoned' folders.
 
-## FCC Neural Network Java
+### FCC Neural Network Java
 https://github.com/isidorjkaplan/neural-network-java 
 A Java FCC Neural Network implementation I wrote as a personal project to introduce myself to machine learning. This primitive deep learning implementation supports vanilla backrpopogation to train a fully connected neural network. Tested on the MNIST database. 
 
-## Insulator Fault Detection
+### Insulator Fault Detection
 https://github.com/isidorjkaplan/Metsco_Insulator_Detection
 While I was in first year I had a course project where I worked in collaberation with METSCO Inc to design a machine learning aproach to identify insulators with visually-identifiable damage. Unfortunately the repo itself is not so organized as it was not part of our course submission, but attached to it is the final report for that project which is a ~20 page report along with a video and powerpoint explaining our design and giving a detailed analysis of metrics. 
 
