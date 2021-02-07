@@ -10,12 +10,15 @@ Email: isidor.kaplan@mail.utoronto.ca
 ## A note to visitors
 Unfortunately, I am restricted from publically sharing the code from some of projects I have worked on. Here are some of the projets that I have worked on but am not permitted from sharing the code. The code that I am allowed to share is on my GitHub. 
 
+### Verilog 16-bit Processor
+As part of a course introducing me to processors and assembly I implemented a 16-bit processor in Verilog and wrote a number of assembly programs for it. I cannot share the code (to prevent future students taking the course from plagarizing). That said, here is a video of two assembly programs I wrote running https://1drv.ms/u/s!AvqP07DxLr0lu8EhGUCcVOC67pOKRg?e=KV0ZM0 
+### Reinforcement Learning Research Papers
+I co-authored 3 papers while working for the iQua research group. Unfortunately, since the papers are under double-blind review I am prohibited from sharing the code or even describing the papers since they are being submitted to double-blind conferences and have not yet been approved. 
 ### Reversi AI: 
 I implemented an MCTS + Reinforcement Learning model in C to play the board game Reversi. I ranked 5th in the class for a competition in a class of 300+ students. Unfortunately since this was a school assignment I am not permitted to share the code publically beacuse of academic integrity regulations (the assignment was just to implement a basic AI for Reversi, I went overboard)
 ### Galaxy-Explorer AI: 
 In 2nd year for my Intro to C++ course (ECE244) I implemented an AI to play an atari-inspired game called Galaxy-Explorer. I used Machine Learning to tune the parameters of a powerful heuristic which was able to score 4th in the class. I cannot share the code for the same reason as the Reversi AI
-### Reinforcement Learning Research Papers
-I co-authored 3 papers while working for the iQua research group. Unfortunately, since the papers are under double-blind review I am prohibited from sharing the code or even describing the papers since they are being submitted to double-blind conferences and have not yet been approved. 
+
 
 ## Some projects I can share
 Below are some of the projects I can share. The GitHub repo's for these projects are pinned on my page. 
