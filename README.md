@@ -10,19 +10,19 @@ Email: isidor.kaplan@mail.utoronto.ca
 ## Public Projects
 
 ### Verilog 16-bit Processor
-https://github.com/isidorjkaplan/ProcessorPublic 
+https://github.com/isidorjkaplan/ProcessorPublic  
 I created a Verilog 16-bit, 8-register, interrupt-enabled processor with a wide range of memory mapped I/O such as a VGA display and private timers. The processor can be synthethized on the DE1_SOC board or using the DESIM simulator. 
 
 ### Deep Reinforcement Learning Framework
-https://github.com/isidorjkaplan/DRL
+https://github.com/isidorjkaplan/DRL   
 An object-oriented framework that implements many of the common deep reinforcement learning algorythems and supports different neural network types. While I was working for the iQua research group I developed this framework which was used for our papers. Note that the framework itself does not represent the unique ideas in our papers and does not identify our papers. All of the algorythems in this repo are public algorythems such as Actor-Crtitic, DQN, and Cross-Entropy. 
 
 ### Ultra Minecraft Plugin
-https://github.com/isidorjkaplan/UltraPlugin
+https://github.com/isidorjkaplan/UltraPlugin     
 While I was in Grade 11 and 12 I single-handidly created this 300+ class codebase in Java. It consists of a core library, reffered to as "UltraLib," which stores a set of useful libraries and types. I then used this library to create a large amount of independant modular plugins that share functionality through the core plugin. These can be found in the 'modules' and 'abandoned' folders.
 
 ### FCC Neural Network Java
-https://github.com/isidorjkaplan/neural-network-java 
+https://github.com/isidorjkaplan/neural-network-java     
 A Java FCC Neural Network implementation I wrote as a personal project to introduce myself to machine learning. This primitive deep learning implementation supports vanilla backrpopogation to train a fully connected neural network. Tested on the MNIST database. 
 
 ### Insulator Fault Detection
