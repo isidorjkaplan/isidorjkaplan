@@ -13,6 +13,10 @@ Email: isidor.kaplan@mail.utoronto.ca
 https://github.com/isidorjkaplan/ProcessorPublic  
 I created a Verilog 16-bit, 8-register, interrupt-enabled processor with a wide range of memory mapped I/O such as a VGA display and private timers. The processor can be synthethized on the DE1_SOC board or using the DESIM simulator. 
 
+### Mapper (C++ GIS)
+https://github.com/isidorjkaplan/MapperPublic   
+I developed an interactive mapping program using Ezgl and Gtk graphics libraries. It supports a range of powerful features that allow you to transverse and navgiate the map. 
+
 ### Deep Reinforcement Learning Framework
 https://github.com/isidorjkaplan/DRL   
 An object-oriented framework that implements many of the common deep reinforcement learning algorythems and supports different neural network types. While I was working for the iQua research group I developed this framework which was used for our papers. Note that the framework itself does not represent the unique ideas in our papers and does not identify our papers. All of the algorythems in this repo are public algorythems such as Actor-Crtitic, DQN, and Cross-Entropy. 
