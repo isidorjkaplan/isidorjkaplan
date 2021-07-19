@@ -1,6 +1,6 @@
 # Isidor Kaplan
 ## About me
-Second-year computer engineering student at the University of Toronto with an interest in computer hardware, machine learning, and software-design. On Dean’s List for all academic terms to date. Recipient of University of Toronto In-Course Scholarship and FASE First Year Summer Fellowship. Worked for the iQua research group and co-authored three (3) research papers on Deep Reinforcement Learning. Incoming Intern with Rocscience Inc for Summer 2021. 
+Third-year computer engineering student at the University of Toronto with an interest in computer hardware, machine learning, and software-design. On Dean’s List for all academic terms to date. Recipient of University of Toronto In-Course Scholarship and FASE First Year Summer Fellowship. Worked for the iQua research group and co-authored three (3) research papers on Deep Reinforcement Learning. Incoming Intern with Rocscience Inc for Summer 2021. 
 
 [![Isidor's github stats](https://github-readme-stats.vercel.app/api?username=isidorjkaplan&count_private=true&show_icons=true&theme=radical&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)   
 
