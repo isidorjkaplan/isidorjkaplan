@@ -32,6 +32,12 @@ https://github.com/isidorjkaplan/neural-network-java
 A Java FCC Neural Network implementation I wrote as a personal project to introduce myself to machine learning. This primitive deep learning implementation supports vanilla backrpopogation to train a fully connected neural network. Tested on the MNIST database. 
 
 ### Insulator Fault Detection
+This work was used in the reseach paper:
+```
+Hybrid Algorithm Based on Machine Learning and Deep Learning to Identify Ceramic Insulators and Detect Physical Damages,   
+Youssef El Haj, Ruth Milman, Isidor Kaplan, Ali Ashasi. CEIDP 2021 (Accepted)
+```
+The research paper itself can be found [here](https://github.com/isidorjkaplan/insulators/blob/main/Hybrid%20Algorithm%20Based%20on%20Machine%20Learning%20and%20Deep%20Learning%20to%20Identify%20Ceramic%20Insulators%20and%20Detect%20Physical%20Damages.pdf) 
 https://github.com/isidorjkaplan/insulators <--- Newer version with cleaned up code and a few extra features
 https://github.com/isidorjkaplan/Metsco_Insulator_Detection <--- Original code that was used for the paper we submited
 While I was in first year I had a course project where I worked in collaberation with METSCO Inc to design a machine learning aproach to identify insulators with visually-identifiable damage. Unfortunately the repo itself is not so organized as it was not part of our course submission, but attached to it is the final report for that project which is a ~20 page report along with a video and powerpoint explaining our design and giving a detailed analysis of metrics. 
