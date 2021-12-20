@@ -51,7 +51,7 @@ A Java FCC Neural Network implementation I wrote as a personal project to introd
 ## A note to visitors
 Unfortunately, I am restricted from publicly sharing the code from some of projects I have worked on. Here are some of the projects that I have worked on but am not permitted from sharing the code. The code that I am allowed to share is on my GitHub. Below are some private projects that I worked on but am not allowed to share the source-code for. 
 
-# CPillar
+### CPillar
 This was a massive peice of commercial software that I worked on during my employment with Rocscience Inc. I was responsible for refactoring the entire code-base. Due to the code being closed-source I cannot share the actual code. 
 
 ### Reinforcement Learning Research Papers
