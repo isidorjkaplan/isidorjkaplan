@@ -48,7 +48,7 @@ While I was in Grade 11 and 12 I single-handedly created this 300+ class codebas
 https://github.com/isidorjkaplan/neural-network-java     
 A Java FCC Neural Network implementation I wrote as a personal project to introduce myself to machine learning. This primitive deep learning implementation supports vanilla backrpopogation to train a fully connected neural network. Tested on the MNIST database. 
 
-## A note to visitors
+## Closed Source Projects
 Unfortunately, I am restricted from publicly sharing the code from some of projects I have worked on. Here are some of the projects that I have worked on but am not permitted from sharing the code. The code that I am allowed to share is on my GitHub. Below are some private projects that I worked on but am not allowed to share the source-code for. 
 
 ### CPillar
