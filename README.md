@@ -45,6 +45,9 @@ A autoencoder-based machine learning framework that trains in real-time during d
 ### CPillar
 This was a massive peice of commercial software that I worked on during my employment with Rocscience Inc. I was responsible for refactoring the entire code-base. Due to the code being closed-source I cannot share the actual code. 
 
+### OS161
+Implemented core features in an open-source operating system including: Virtual Memory (paging, swapping, etc etc). Process Management (fork, execv, waitpid, exit)
+
 ### Mapper (C++ GIS)
 https://github.com/isidorjkaplan/MapperPublic   
 I developed an interactive mapping program using Ezgl and Gtk graphics libraries. It supports a range of powerful features that allow you to transverse and navgiate the map. 
