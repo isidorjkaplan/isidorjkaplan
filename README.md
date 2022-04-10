@@ -15,11 +15,35 @@ Resume: https://isidorkaplan.ca \
 Linkedin: https://www.linkedin.com/in/isidorjkaplan \
 Email: isidor.kaplan@mail.utoronto.ca
 
-## Public Projects
+## Publications
+### Ivory
+    Ivory: Learning Network Adaptive Streaming Codes
+    Salma Emara, Fei Wang, Isidor Kaplan, Baochun Li.
+    IWQoS 2022 (Accepted)
+    
+### Insulator Detection
+    Hybrid Algorithm Based on Machine Learning and Deep Learning to Identify Ceramic Insulators and Detect Physical Damages,
+    Youssef El Haj, Ruth Milman, Isidor Kaplan, Ali Ashasi.
+    CEIDP 2021
+IEEE Publication Link: https://ieeexplore.ieee.org/document/9705342 
+
+
+## Projects
 
 ### Verilog 16-bit Processor
 https://github.com/isidorjkaplan/ProcessorPublic  
 I created a Verilog 16-bit, 8-register, interrupt-enabled processor with a wide range of memory mapped I/O such as a VGA display and private timers. The processor can be synthethized on the DE1_SOC board or using the DESIM simulator. 
+
+### Pipelined Verilog 16-bit Processor
+https://github.com/isidorjkaplan/PipelinedProcessor 
+Designed a 5-stage pipelined processor in system-verilog running the same ARM-like assembly language as the above processor. 
+
+### OVAL: Realtime Online-Learning Video Compression
+https://github.com/isidorjkaplan/OVAL
+A autoencoder-based machine learning framework that trains in real-time during deployment to result in substantially improved video encodings. 
+
+### CPillar
+This was a massive peice of commercial software that I worked on during my employment with Rocscience Inc. I was responsible for refactoring the entire code-base. Due to the code being closed-source I cannot share the actual code. 
 
 ### Mapper (C++ GIS)
 https://github.com/isidorjkaplan/MapperPublic   
@@ -47,12 +71,6 @@ While I was in Grade 11 and 12 I single-handedly created this 300+ class codebas
 ### FCC Neural Network Java
 https://github.com/isidorjkaplan/neural-network-java     
 A Java FCC Neural Network implementation I wrote as a personal project to introduce myself to machine learning. This primitive deep learning implementation supports vanilla backrpopogation to train a fully connected neural network. Tested on the MNIST database. 
-
-## Closed Source Projects
-Unfortunately, I am restricted from publicly sharing the code from some of projects I have worked on. Here are some of the projects that I have worked on but am not permitted from sharing the code. The code that I am allowed to share is on my GitHub. Below are some private projects that I worked on but am not allowed to share the source-code for. 
-
-### CPillar
-This was a massive peice of commercial software that I worked on during my employment with Rocscience Inc. I was responsible for refactoring the entire code-base. Due to the code being closed-source I cannot share the actual code. 
 
 ### Reinforcement Learning Research Papers
 I co-authored 3 papers while working for the iQua research group. Unfortunately, since the papers are under double-blind review I am prohibited from sharing the code or even describing the papers since they are being submitted to double-blind conferences and have not yet been approved. 
