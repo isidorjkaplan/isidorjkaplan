@@ -1,12 +1,4 @@
 # Isidor Kaplan
-## About me
-I am a third-year computer engineering student at the University of Toronto. I am focusing my studies on a variety of topics including machine learning, software development, and compute hardware. 
-
-I am the proud recipient of a variety of awards and scholarships including the FASE Top Student Award, the BFMI Sesquicentennial Trust Scholarship, the University of Toronto In-Course Scholarship and FASE First Year Summer Fellowship.
-
-Education is extremely important to me and so I have taken initiative to give back to the university community through being a TA for ECE244 (Programming Fundamentals), a GEARS Mentor for First Year Students, as well as volunteering my time to help professors redesign course labs. 
-
-My work experience includes being a Software Developer Intern for Rocscience Inc where I rewrote a major piece of commercial software. Prior to that, I worked for the iQua research group and co-authored three (3) research papers on Deep Reinforcement Learning (unfortunately still under peer review).
 
 [![Isidor's github stats](https://github-readme-stats.vercel.app/api?username=isidorjkaplan&count_private=true&show_icons=true&theme=radical&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)   
 
