@@ -8,15 +8,19 @@ Linkedin: https://www.linkedin.com/in/isidorjkaplan \
 Email: isidor.kaplan@mail.utoronto.ca
 
 ## Publications
+### MAARL Edge Caching 
+    Multi-Agent Deep Reinforcement Learning for Cooperative Edge Caching via Hybrid Communication
+    Fei Wang, Salma Emara, Isidor Kaplan, Baochun Li, Timothy Zeyl.
+    (Accepted) IEEE ICC-SAC 2023
 ### Ivory
     Ivory: Learning Network Adaptive Streaming Codes
     Salma Emara, Fei Wang, Isidor Kaplan, Baochun Li.
-    IWQoS 2022 (Accepted)
+    IEEE IWQoS 2022
     
 ### Insulator Detection
     Hybrid Algorithm Based on Machine Learning and Deep Learning to Identify Ceramic Insulators and Detect Physical Damages,
     Youssef El Haj, Ruth Milman, Isidor Kaplan, Ali Ashasi.
-    CEIDP 2021
+    IEEE CEIDP 2021
 IEEE Publication Link: https://ieeexplore.ieee.org/document/9705342 
 
 
